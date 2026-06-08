@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Introdução ao Tráfego Pago e Mentalidade de Escala",
+    "desc": "Fundamentos teóricos indispensáveis, o funcionamento dos leilões e as principais siglas de performance de mídia.",
+    "badge": "Módulo 01",
+    "videoUrl": "https://www.youtube.com/embed/SEU_ID_DE_VIDEO",
+    "content": "<p>O tráfego pago consiste na atração intencional...</p>",
+    "checklist": [
+      "Compreender a diferença entre tráfego orgânico e pago",
+      "Memorizar a fórmula do leilão (Valor Total)",
+      "Entender as siglas CPM, CPC, CTR e CPA"
+    ],
+    "quiz": {
+      "question": "Se a sua campanha de anúncios exibiu seu criativo 10.000 vezes...",
+      "options": ["1% de CTR", "2% de CTR", "0.5% de CTR", "5% de CTR"],
+      "answer": 1
+    }
+  }
+]
